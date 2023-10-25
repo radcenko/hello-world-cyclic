@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-cyclic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radcenko/hello-world-cyclic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radcenko/hello-world-cyclic/issues"
+  },
+  "homepage": "https://github.com/radcenko/hello-world-cyclic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
